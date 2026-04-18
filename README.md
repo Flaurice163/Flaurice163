@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flaurice163
-- 👀 I’m interested in field of study and sport
+- 👀 I’m interested in field of study and devweb
 - 🌱 I’m currently learning informatic
 
 <!---
